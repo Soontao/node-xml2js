@@ -1,5 +1,5 @@
 {
-  "name": "xml2js",
+  "name": "xml2js-with-non-standard-event",
   "description": "Simple XML to JavaScript object converter.",
   "keywords": [
     "xml",
@@ -72,6 +72,7 @@
     "url": "https://github.com/Leonidas-from-XIV/node-xml2js.git"
   },
   "dependencies": {
+    "events": "^2.0.0",
     "sax": ">=0.6.0",
     "xmlbuilder": "~9.0.1"
   },

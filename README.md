@@ -1,4 +1,4 @@
-node-xml2js
+node-xml2js-fork
 ===========
 
 Ever had the urge to parse XML? And wanted to access the data in some sane,
